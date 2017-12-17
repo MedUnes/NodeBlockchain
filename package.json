@@ -1,0 +1,22 @@
+{
+  "name": "simple-block-chain",
+  "version": "1.0.0",
+  "description": "A *very* basic implementation of SHA-256 based blockchain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "node",
+    "hash",
+    "sha256"
+  ],
+  "author": "medunes",
+  "license": "ISC",
+  "dependencies": {
+    "hash.js": "^1.1.3",
+    "moment": "^2.20.0",
+    "mysql": "^2.15.0"
+  }
+}
