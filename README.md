@@ -4,7 +4,7 @@
 
 ### Installation:
 1. Clone the repository using **git clone https://github.com/MedUnes/NodeBlockchain.git**
-2. Run the blockchain.sql file on your MySQL server **before anything (important)**
+2. Run the **var/blockchain.sql** file on your MySQL server **before anything (important)**
 3. Set your MySQL server's credentials (user/password) by editing the **config/keys.js** file.
 4. Install node modules using **npm install**
 
